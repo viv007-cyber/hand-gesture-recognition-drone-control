@@ -1,4 +1,4 @@
-# Hand-gesture-recognition-drone-control
+
 # 🛸 Hand Gesture Recognition for Drone Control using MediaPipe
 
 This project implements a **real-time hand gesture recognition system** using **MediaPipe** to control a drone. By detecting and classifying hand gestures from a webcam or camera feed, the system sends corresponding commands to operate the drone.
